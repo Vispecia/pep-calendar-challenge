@@ -1,0 +1,10 @@
+.calendar {
+  display: flex;
+  overflow-x: scroll;
+}
+/*
+crete pop up for event
+store teacher
+validation for adding event corresponding to teacher
+filters dwm
+**/

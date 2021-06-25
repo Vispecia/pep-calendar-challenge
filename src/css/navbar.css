@@ -1,0 +1,16 @@
+.navbar_dwm_dropdown {
+  width: 100px;
+  height: 50px;
+}
+select {
+  margin: 4px;
+}
+option {
+  width: 100px;
+  height: 50px;
+}
+.navbar {
+  display: flex;
+  justify-content: flex-end;
+  margin: 10px;
+}
